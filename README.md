@@ -1,1 +1,3 @@
-# pandoras-ball
+# Pandora's Ball
+
+Based on Greek Mythology, ...
