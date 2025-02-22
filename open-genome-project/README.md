@@ -4,6 +4,10 @@
 
 :white_large_square: IN-PROGRESS
 
+## **End of Year Goal**
+
+Promissing results & evidence that can show the usefulness of explainable AI & AI meta analysis.
+
 ## **Timeline**
 
 1. **FEB 2025**
