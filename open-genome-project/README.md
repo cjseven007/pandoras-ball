@@ -10,8 +10,11 @@
 
 :white_check_mark: Planning
 
-:white_large_square: 
+:white_large_square: Explainable CNN Model (Cats & Dogs Dataset) [LU]
 
+:white_large_square: GPT-1 & GPT-2 [CJ]
+
+:white_large_square: Study open source projects [ANSON]
 
 1. **MARCH 2025**
 
@@ -43,7 +46,7 @@
 1. **DEC 2025**
 
 
-1. **JAN 2025**
+1. **JAN 2026**
 
 
-1. **FEB 2025**
+1. **FEB 2026**
