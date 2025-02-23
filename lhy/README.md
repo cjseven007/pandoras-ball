@@ -19,8 +19,8 @@
 
 | STATUS | QUESTS | REMARKS |
 | --- | --- | --- |
-| :white_large_square: | Open-Genome tasks | ??? |
-| :white_large_square: | Complete PointNet/PointNet++ all discriminative models | ??? |
-| :white_large_square: | Complete initial reading on eye-tracking | ??? |
-| :white_large_square: | Create dataset/handlers for 3D models | ??? |
-| :white_large_square: | YUTP interview | ??? |
+| :white_large_square: | Open-Genome tasks | (29) |
+| :white_large_square: | Complete PointNet/PointNet++ all discriminative models | (26) |
+| :white_large_square: | Complete initial reading on eye-tracking | (27) |
+| :white_large_square: | Create dataset/handlers for 3D models | (28) |
+| :white_large_square: | YUTP interview | (24-25) |
