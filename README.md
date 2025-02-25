@@ -1,4 +1,3 @@
 # Pandora's Ball
 
-Based on Greek Mythology, ...
-Balls can't be opened, only be cracked
+Based on Greek Mythology, ... Balls can't be opened, only be cracked

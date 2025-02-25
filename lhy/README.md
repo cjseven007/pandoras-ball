@@ -23,4 +23,4 @@
 | :white_large_square: | Complete PointNet/PointNet++ all discriminative models | (26) |
 | :white_large_square: | Complete initial reading on eye-tracking | (27) |
 | :white_large_square: | Create dataset/handlers for 3D models | (28) |
-| :white_large_square: | YUTP interview | (24-25) |
+| :white_check_mark: | YUTP interview | (24-25) |
