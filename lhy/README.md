@@ -19,8 +19,12 @@
 
 | STATUS | QUESTS | REMARKS |
 | --- | --- | --- |
-| :white_large_square: | Open-Genome tasks | (29) |
+| :white_check_mark: | Open-Genome tasks | (29) |
 | :white_check_mark: | Complete PointNet/PointNet++ classification & part segmentation models | (26) |
 | :white_large_square: | Complete initial reading on eye-tracking | (27) |
 | :white_large_square: | Create dataset/handlers for 3D models | (28) |
 | :white_check_mark: | YUTP interview | (24-25) |
+
+## **Portfolio**
+
+[not sus link](https://www.luhouyang.com/)
