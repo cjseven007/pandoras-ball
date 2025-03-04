@@ -20,7 +20,18 @@
 | STATUS | QUESTS | REMARKS |
 | --- | --- | --- |
 | :white_large_square: | Open-Genome tasks | (29) |
-| :white_check_mark: | Complete PointNet/PointNet++ classification & part segmentation models | (26) |
+| :white_check_mark: | Complete PointNet/PointNet++ classification & part segmentation models | [report](https://github.com/luhouyang/generative-point-net) |
 | :white_large_square: | Complete initial reading on eye-tracking | (27) |
 | :white_large_square: | Create dataset/handlers for 3D models | (28) |
-| :white_check_mark: | YUTP interview | (24-25) |
+| :white_check_mark: | YUTP interview | done & dusted |
+
+## **MARCH 2025**
+
+### **WEEK 1 (3 - 10)**
+
+| STATUS | QUESTS | REMARKS |
+| --- | --- | --- |
+| :white_large_square: | Complete initial reading on eye-tracking | (5) |
+| :white_large_square: | Create dataset/handlers for 3D models | (6) |
+| :white_large_square: | Start Open-Genome Toolkit | (4) |
+| :white_large_square: | Start Open-Genome Website | (4) |
