@@ -33,5 +33,5 @@
 | --- | --- | --- |
 | :white_large_square: | Complete initial reading on eye-tracking | (5) |
 | :white_large_square: | Create dataset/handlers for 3D models | (6) |
-| :white_large_square: | Start Open-Genome Toolkit | (4) |
-| :white_large_square: | Start Open-Genome Website | (4) |
+| :white_check_mark: | Start Open-Genome Toolkit | (4) |
+| :white_check_mark: | Start Open-Genome Website | (4) |
