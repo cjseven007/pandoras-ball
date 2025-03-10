@@ -19,8 +19,8 @@
 
 | STATUS | QUESTS | REMARKS |
 | --- | --- | --- |
-| :white_large_square: | Open-Genome tasks | (29) |
-| :white_check_mark: | Complete PointNet/PointNet++ classification & part segmentation models | [report](https://github.com/luhouyang/generative-point-net) |
+| :white_check_mark: | Open-Genome tasks | Created Website and Toolkit PyPi package |
+| :white_check_mark: | Complete PointNet/PointNet++ classification & part segmentation models | [report](https://github.com/luhouyang/generative-point-net/blob/main/archive/reports/discriminatory_model_results.pdf) |
 | :white_large_square: | Complete initial reading on eye-tracking | (27) |
 | :white_large_square: | Create dataset/handlers for 3D models | (28) |
 | :white_check_mark: | YUTP interview | done & dusted |
@@ -33,5 +33,14 @@
 | --- | --- | --- |
 | :white_large_square: | Complete initial reading on eye-tracking | (5) |
 | :white_large_square: | Create dataset/handlers for 3D models | (6) |
-| :white_check_mark: | Start Open-Genome Toolkit | (4) |
-| :white_check_mark: | Start Open-Genome Website | (4) |
+| :white_check_mark: | Start Open-Genome Toolkit | [https://pypi.org/project/opengenome/](https://pypi.org/project/opengenome/) |
+| :white_check_mark: | Start Open-Genome Website | [https://open-genome-project.org](https://open-genome-project.org) |
+
+### **WEEK 2 (11 - 18)**
+
+| STATUS | QUESTS | REMARKS |
+| --- | --- | --- |
+| :white_large_square: | Complete initial reading on eye-tracking | (16) |
+| :white_large_square: | Complete 3D Heatmap Initial Report | (11) |
+| :white_large_square: | OG Toolkit Update | (12) |
+| :white_large_square: | Draft Open Circle Workshop /w CJ | (13) |
