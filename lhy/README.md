@@ -41,6 +41,6 @@
 | STATUS | QUESTS | REMARKS |
 | --- | --- | --- |
 | :white_large_square: | Complete initial reading on eye-tracking | (16) |
-| :white_large_square: | Complete 3D Heatmap Initial Report | (11) |
+| :white_check_mark: | Complete 3D Heatmap Initial Report | (11) [report](https://drive.google.com/file/d/1lttltkZ_faW4j2Sc2GwwiMJAjJNUa9uL/view?usp=sharing) |
 | :white_large_square: | OG Toolkit Update | (12) |
 | :white_large_square: | Draft Open Circle Workshop /w CJ | (13) |
